@@ -8,9 +8,9 @@
 
 
 
-$('.bike').on('mouseenter', function(){
-  $('.bike').addClass('bike-move');
-})
+// $('.bike').on('mouseenter', function(){
+//   $('.bike').addClass('bike-move');
+// })
 
 $('.hamburger').on('click', function(){
   $('.nav-links').addClass('active');
